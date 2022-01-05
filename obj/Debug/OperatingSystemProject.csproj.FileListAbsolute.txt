@@ -1,0 +1,11 @@
+C:\Users\Mehmet\source\repos\OperatingSystemProject\OperatingSystemProject\bin\Debug\OperatingSystemProject.exe.config
+C:\Users\Mehmet\source\repos\OperatingSystemProject\OperatingSystemProject\bin\Debug\OperatingSystemProject.exe
+C:\Users\Mehmet\source\repos\OperatingSystemProject\OperatingSystemProject\bin\Debug\OperatingSystemProject.pdb
+C:\Users\Mehmet\source\repos\OperatingSystemProject\OperatingSystemProject\obj\Debug\OperatingSystemProject.csproj.AssemblyReference.cache
+C:\Users\Mehmet\source\repos\OperatingSystemProject\OperatingSystemProject\obj\Debug\OperatingSystemProject.Form1.resources
+C:\Users\Mehmet\source\repos\OperatingSystemProject\OperatingSystemProject\obj\Debug\OperatingSystemProject.Properties.Resources.resources
+C:\Users\Mehmet\source\repos\OperatingSystemProject\OperatingSystemProject\obj\Debug\OperatingSystemProject.csproj.GenerateResource.cache
+C:\Users\Mehmet\source\repos\OperatingSystemProject\OperatingSystemProject\obj\Debug\OperatingSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\OperatingSystemProject\OperatingSystemProject\obj\Debug\OperatingSystemProject.exe
+C:\Users\Mehmet\source\repos\OperatingSystemProject\OperatingSystemProject\obj\Debug\OperatingSystemProject.pdb
+C:\Users\Mehmet\source\repos\OperatingSystemProject\OperatingSystemProject\obj\Debug\OperatingSystemProject.system_resource.resources
