@@ -3,6 +3,7 @@ The project is about system source. ( Desktop Application) U can views ram/cpu/p
 
 This project started at October - 2021
 Finished at January - 2022
+Project has 2 UI page.
 
 ### Whats it?
   In this project you can view cpu, ram and computer information. 
